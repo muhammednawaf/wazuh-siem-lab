@@ -231,7 +231,7 @@ net user hacker Password123! /add
 | Timestamp | April 28, 2026 @ 02:50:03 |
 | Description | New local user account created |
 
-![New User Alert](screenshots/previlage_1.png)
+![New User Alert](screenshots/previlage-1.png)
 
 ---
 
@@ -257,9 +257,9 @@ net localgroup Administrators hacker /add
 | Timestamp | April 28, 2026 @ 02:47:47 |
 | Description | User added to Administrators group |
 
-![Privilege Escalation](screenshots/previlage_2.png)
+![Privilege Escalation](screenshots/previlage-2.png)
 ![T1078 Alert](screenshots/t1078.png)
-![All T1078 Alerts](screenshots/all_t1078.png)
+![All T1078 Alerts](screenshots/all-t1078.png)
 
 ---
 
@@ -296,7 +296,7 @@ wevtutil cl Security
 | Description | CRITICAL: Security event log cleared |
 
 ![Log Cleared Alert](screenshots/log-clear.png)
-![T1070.001 Detailed](screenshots/t10070.001-detailed.png)
+![T1070.001 Detailed](screenshots/t1070.001-detailed.png)
 
 ---
 
