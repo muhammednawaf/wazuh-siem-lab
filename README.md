@@ -100,9 +100,9 @@ Employee PC gets hacked
 
 ---
 
-## 📅 Project Timeline — Day by Day
+## 📅 Project 
 
-### Day 1 — Environment Setup
+### 1 — Environment Setup
 ```
 ✅ Installed VirtualBox on Windows 11
 ✅ Downloaded Ubuntu 22.04 Desktop ISO
@@ -112,7 +112,7 @@ Employee PC gets hacked
 ✅ Updated Ubuntu packages
 ```
 
-### Day 2 — Wazuh Installation
+### 2 — Wazuh Installation
 ```
 ✅ Ran Wazuh all-in-one install command
 ✅ Waited 15-20 minutes for installation
@@ -126,7 +126,7 @@ Install command used:
 curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
 
-### Day 3 — Windows Agent Connection
+### 3 — Windows Agent Connection
 ```
 ✅ Changed VirtualBox NAT → Bridged Adapter
 ✅ Got real home network IP for Ubuntu VM
@@ -144,7 +144,7 @@ Fixed:  Bridged Adapter → VM got real IP 192.168.1.38
 Result: Agent connected successfully!
 ```
 
-### Day 4 — Attack Simulations
+### 4 — Attack Simulations
 ```
 ✅ Simulated brute force attack
 ✅ Created suspicious user account
@@ -161,7 +161,7 @@ Result: Agent connected successfully!
 ✅ Verified rules firing in dashboard
 ```
 
-### Day 6 — File Integrity Monitoring
+### 6 — File Integrity Monitoring
 ```
 ✅ Configured FIM on Ubuntu VM
 ✅ Configured FIM on Windows PC
