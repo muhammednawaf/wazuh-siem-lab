@@ -23,7 +23,6 @@
 | **Server IP** | 192.168.1.38 |
 | **Wazuh Version** | v4.7.5 |
 | **OS** | Windows 11 Home Single Language |
-| **Project Duration** | April 26–30, 2026 |
 
 ---
 
