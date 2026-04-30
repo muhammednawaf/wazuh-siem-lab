@@ -1,4 +1,4 @@
-# 🛡️ Wazuh SIEM Home Lab — SOC Analyst Portfolio
+# 🛡️ Wazuh SIEM Home Lab
 
 > A fully functional Security Information and Event Management (SIEM) home lab built with Wazuh on Ubuntu VM, monitoring a Windows 11 endpoint. This project simulates real SOC analyst workflows including log ingestion, attack simulation, alert triage, custom detection rules, File Integrity Monitoring, and professional incident reporting.
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 📌 What is a SIEM?
+##  What is a SIEM?
 
 **SIEM = Security Information and Event Management**
 
