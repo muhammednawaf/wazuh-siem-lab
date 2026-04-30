@@ -93,10 +93,10 @@ Employee PC gets hacked
 ![Dashboard](screenshots/dashboard.png)
 
 ### Windows Agent Connected and Active
-![Agent Connected](screenshots/agent_connected.png)
+![Agent Connected](screenshots/agent connected.png)
 
 ### Agent Dashboard — Nawaf (192.168.1.35) — Active ✅
-![Agent Dashboard](screenshots/agent_dashbaord.png)
+![Agent Dashboard](screenshots/agent dashbaord.png)
 
 ---
 
