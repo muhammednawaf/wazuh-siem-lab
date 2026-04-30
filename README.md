@@ -153,7 +153,7 @@ Result: Agent connected successfully!
 ✅ Watched all alerts fire in Wazuh
 ```
 
-### Day 5 — Custom Detection Rules
+### 5 — Custom Detection Rules
 ```
 ✅ Wrote 4 custom XML detection rules
 ✅ Fixed XML errors in rules file
@@ -180,7 +180,7 @@ Result: Agent connected successfully!
 
 ---
 
-### ⚔️ Attack 1 — Brute Force Login
+###  Attack 1 — Brute Force Login
 **MITRE Technique: T1110.001 — Brute Force: Password Guessing**
 
 **What is it:**
@@ -209,7 +209,7 @@ $i=0; while($i -lt 10){
 
 ---
 
-### ⚔️ Attack 2 — New User Account Created (Persistence)
+###  Attack 2 — New User Account Created (Persistence)
 **MITRE Technique: T1136.001 — Create Account: Local Account**
 
 **What is it:**
@@ -235,7 +235,7 @@ net user hacker Password123! /add
 
 ---
 
-### ⚔️ Attack 3 — Privilege Escalation
+###  Attack 3 — Privilege Escalation
 **MITRE Technique: T1078.003 — Valid Accounts: Local Accounts**
 
 **What is it:**
@@ -263,7 +263,7 @@ net localgroup Administrators hacker /add
 
 ---
 
-### ⚔️ Attack 4 — Security Log Cleared (Defense Evasion)
+###  Attack 4 — Security Log Cleared (Defense Evasion)
 **MITRE Technique: T1070.001 — Indicator Removal: Clear Windows Event Logs**
 
 **What is it:**
@@ -295,8 +295,8 @@ wevtutil cl Security
 | Times Fired | 9 times |
 | Description | CRITICAL: Security event log cleared |
 
-![Log Cleared Alert](screenshots/log_clear.png)
-![T1070.001 Detailed](screenshots/t10070_001_detailed.png)
+![Log Cleared Alert](screenshots/log-clear.png)
+![T1070.001 Detailed](screenshots/t10070.001-detailed.png)
 
 ---
 
@@ -702,9 +702,9 @@ net user hacker /delete
 
 | Platform | Link |
 |---|---|
-| TryHackMe | [Your TryHackMe Profile] |
-| LinkedIn | [Your LinkedIn Profile] |
-| Email | [Your Email] |
+| TryHackMe | [https://tryhackme.com/p/muhammednawafmv] |
+| LinkedIn | [https://www.linkedin.com/in/muhammednawafmv/] |
+| Email | [mailto:nawafsuneer@gmail.com] |
 
 ---
 
