@@ -585,7 +585,7 @@ wazuh-siem-lab/
     ├── all_t1078.png                  ← All T1078 alerts list
     ├── fim1.png                       ← FIM security events
     ├── fim2.png                       ← FIM integrity monitoring
-    └── t10070_001_detailed.png        ← T1070.001 detailed view
+    └── t1070_001_detailed.png        ← T1070.001 detailed view
 ```
 
 ---
@@ -674,29 +674,6 @@ net user hacker /delete
 ![Firefox](https://img.shields.io/badge/Firefox-Dashboard-FF7139?logo=firefox)
 
 ---
-
-## 📚 What I Learned
-
-```
-✅ What a SIEM is and how it works
-✅ Wazuh 3-component architecture
-   (Manager, Indexer, Dashboard)
-✅ VirtualBox networking (NAT vs Bridged)
-✅ Installing and configuring Wazuh from scratch
-✅ Connecting Windows agents to Wazuh
-✅ ossec.conf configuration file structure
-✅ Windows Event IDs and their meanings
-✅ MITRE ATT&CK framework and techniques
-✅ Simulating real attack techniques safely
-✅ Writing custom XML detection rules
-✅ Rule chaining and SIEM correlation
-✅ Configuring File Integrity Monitoring
-✅ Reading raw JSON alert data
-✅ Identifying false positives
-✅ Writing professional incident reports
-✅ SOC analyst investigation methodology
-✅ Alert triage: What? Who? When? Where? Why?
-```
 
 ## 📬 Contact
 
